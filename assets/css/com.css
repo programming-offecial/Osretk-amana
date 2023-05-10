@@ -1,0 +1,60 @@
+@media (min-width: 992px){
+    .col-lg-6 {
+      flex: 0 0 auto;
+      width: 59%;
+    }
+  }
+  @media (min-width: 992px){
+  .col-lg-5 {
+      flex: 0 0 auto;
+      width: 70%;
+  }
+  }
+  
+  
+  @media (min-width: 992px){
+  .about .our-story {
+    position: relative;
+    width: 120%;
+    left: 300px;
+  }
+  }
+  
+  @media (min-width: 992px){
+  .about .about-img { 
+  position: relative;
+  left: 180px;
+   width: 770px;
+  }
+  }
+  
+  @media (min-width: 992px){
+  .about h2 {
+    position: relative;
+    left: 327px;
+  }
+  }
+  
+  @media (min-width: 992px){
+  .alt-services .img-bg {
+    position: relative;
+     width: 770px;
+  }} 
+  
+  @media (min-width: 992px){
+  .bi bi{
+  padding-right: 10px;
+  }
+  }
+  
+  @media (min-width: 992px){
+  .breadcrumbs {
+  min-height: 70vh;
+  
+  }}
+
+  @media (min-width: 992px){
+    .header .logo h1 {
+      font-size: 17px;
+    
+    }}
